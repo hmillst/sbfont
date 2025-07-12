@@ -1,0 +1,439 @@
+[
+  {
+    "rank": 1,
+    "id": 1277197913,
+    "listed_at": "2025-07-12T10:11:53.000Z",
+    "notes": null,
+    "type": "show",
+    "show": {
+      "title": "Bluey",
+      "year": 2018,
+      "ids": {
+        "trakt": 136999,
+        "slug": "bluey-2018",
+        "tvdb": 353546,
+        "imdb": "tt7678620",
+        "tmdb": 82728,
+        "tvrage": null
+      }
+    }
+  },
+  {
+    "rank": 2,
+    "id": 1277198017,
+    "listed_at": "2025-07-12T10:12:02.000Z",
+    "notes": null,
+    "type": "show",
+    "show": {
+      "title": "Bluey Minisodes",
+      "year": 2024,
+      "ids": {
+        "trakt": 244480,
+        "slug": "bluey-minisodes",
+        "tvdb": 451293,
+        "imdb": "tt32328599",
+        "tmdb": 256953,
+        "tvrage": null
+      }
+    }
+  },
+  {
+    "rank": 3,
+    "id": 1277198319,
+    "listed_at": "2025-07-12T10:13:06.000Z",
+    "notes": null,
+    "type": "show",
+    "show": {
+      "title": "Bluey Book Reads",
+      "year": 2024,
+      "ids": {
+        "trakt": 244566,
+        "slug": "bluey-book-reads",
+        "tvdb": 446425,
+        "imdb": "tt31251632",
+        "tmdb": 257018,
+        "tvrage": null
+      }
+    }
+  },
+  {
+    "rank": 4,
+    "id": 1277198374,
+    "listed_at": "2025-07-12T10:13:43.000Z",
+    "notes": null,
+    "type": "show",
+    "show": {
+      "title": "Dragons",
+      "year": 2012,
+      "ids": {
+        "trakt": 44060,
+        "slug": "dragons",
+        "tvdb": 261202,
+        "imdb": "tt2325846",
+        "tmdb": 44305,
+        "tvrage": null
+      }
+    }
+  },
+  {
+    "rank": 5,
+    "id": 1277198686,
+    "listed_at": "2025-07-12T10:14:26.000Z",
+    "notes": null,
+    "type": "show",
+    "show": {
+      "title": "The Creature Cases",
+      "year": 2022,
+      "ids": {
+        "trakt": 194123,
+        "slug": "the-creature-cases",
+        "tvdb": 418091,
+        "imdb": "tt15527326",
+        "tmdb": 195407,
+        "tvrage": null
+      }
+    }
+  },
+  {
+    "rank": 6,
+    "id": 1277198691,
+    "listed_at": "2025-07-12T10:14:34.000Z",
+    "notes": null,
+    "type": "show",
+    "show": {
+      "title": "Octonauts",
+      "year": 2010,
+      "ids": {
+        "trakt": 37314,
+        "slug": "octonauts",
+        "tvdb": 198851,
+        "imdb": "tt1710177",
+        "tmdb": 37472,
+        "tvrage": null
+      }
+    }
+  },
+  {
+    "rank": 7,
+    "id": 1277198705,
+    "listed_at": "2025-07-12T10:14:53.000Z",
+    "notes": null,
+    "type": "show",
+    "show": {
+      "title": "Marvel's Spidey and His Amazing Friends",
+      "year": 2021,
+      "ids": {
+        "trakt": 181835,
+        "slug": "marvel-s-spidey-and-his-amazing-friends",
+        "tvdb": 404491,
+        "imdb": "tt10862280",
+        "tmdb": 127635,
+        "tvrage": null
+      }
+    }
+  },
+  {
+    "rank": 8,
+    "id": 1277198759,
+    "listed_at": "2025-07-12T10:15:15.000Z",
+    "notes": null,
+    "type": "show",
+    "show": {
+      "title": "Gabby's Dollhouse",
+      "year": 2021,
+      "ids": {
+        "trakt": 169028,
+        "slug": "gabby-s-dollhouse",
+        "tvdb": 391183,
+        "imdb": "tt9165438",
+        "tmdb": 111474,
+        "tvrage": null
+      }
+    }
+  },
+  {
+    "rank": 9,
+    "id": 1277198879,
+    "listed_at": "2025-07-12T10:15:28.000Z",
+    "notes": null,
+    "type": "show",
+    "show": {
+      "title": "Dragons: Race to the Edge",
+      "year": 2015,
+      "ids": {
+        "trakt": 146426,
+        "slug": "dragons-race-to-the-edge",
+        "tvdb": 453882,
+        "imdb": "tt4816058",
+        "tmdb": 78173,
+        "tvrage": null
+      }
+    }
+  },
+  {
+    "rank": 10,
+    "id": 1277198990,
+    "listed_at": "2025-07-12T10:15:48.000Z",
+    "notes": null,
+    "type": "show",
+    "show": {
+      "title": "Hey Duggee",
+      "year": 2014,
+      "ids": {
+        "trakt": 94785,
+        "slug": "hey-duggee",
+        "tvdb": 289541,
+        "imdb": "tt4291050",
+        "tmdb": 74280,
+        "tvrage": null
+      }
+    }
+  },
+  {
+    "rank": 11,
+    "id": 1277198993,
+    "listed_at": "2025-07-12T10:15:57.000Z",
+    "notes": null,
+    "type": "show",
+    "show": {
+      "title": "PAW Patrol",
+      "year": 2013,
+      "ids": {
+        "trakt": 57161,
+        "slug": "paw-patrol",
+        "tvdb": 272472,
+        "imdb": "tt3121722",
+        "tmdb": 57532,
+        "tvrage": null
+      }
+    }
+  },
+  {
+    "rank": 12,
+    "id": 1277199097,
+    "listed_at": "2025-07-12T10:16:07.000Z",
+    "notes": null,
+    "type": "show",
+    "show": {
+      "title": "Peppa Pig",
+      "year": 2004,
+      "ids": {
+        "trakt": 12172,
+        "slug": "peppa-pig",
+        "tvdb": 79222,
+        "imdb": "tt0426769",
+        "tmdb": 12225,
+        "tvrage": null
+      }
+    }
+  },
+  {
+    "rank": 13,
+    "id": 1277199329,
+    "listed_at": "2025-07-12T10:16:55.000Z",
+    "notes": null,
+    "type": "show",
+    "show": {
+      "title": "Octonauts: Above & Beyond",
+      "year": 2021,
+      "ids": {
+        "trakt": 186537,
+        "slug": "octonauts-above-beyond",
+        "tvdb": 409173,
+        "imdb": "tt15211330",
+        "tmdb": 132983,
+        "tvrage": null
+      }
+    }
+  },
+  {
+    "rank": 14,
+    "id": 1277199384,
+    "listed_at": "2025-07-12T10:17:03.000Z",
+    "notes": null,
+    "type": "show",
+    "show": {
+      "title": "Pokémon",
+      "year": 1997,
+      "ids": {
+        "trakt": 60156,
+        "slug": "pokemon-1997",
+        "tvdb": 76703,
+        "imdb": "tt0168366",
+        "tmdb": 60572,
+        "tvrage": null
+      }
+    }
+  },
+  {
+    "rank": 15,
+    "id": 1277199396,
+    "listed_at": "2025-07-12T10:17:20.000Z",
+    "notes": null,
+    "type": "show",
+    "show": {
+      "title": "The Wiggles",
+      "year": 1998,
+      "ids": {
+        "trakt": 34772,
+        "slug": "the-wiggles",
+        "tvdb": 79251,
+        "imdb": "tt0454656",
+        "tmdb": 34921,
+        "tvrage": null
+      }
+    }
+  },
+  {
+    "rank": 16,
+    "id": 1277199500,
+    "listed_at": "2025-07-12T10:18:08.000Z",
+    "notes": null,
+    "type": "show",
+    "show": {
+      "title": "Daniel Tiger's Neighborhood",
+      "year": 2012,
+      "ids": {
+        "trakt": 39867,
+        "slug": "daniel-tiger-s-neighborhood",
+        "tvdb": 261511,
+        "imdb": "tt2014553",
+        "tmdb": 40050,
+        "tvrage": null
+      }
+    }
+  },
+  {
+    "rank": 17,
+    "id": 1277199619,
+    "listed_at": "2025-07-12T10:18:28.000Z",
+    "notes": null,
+    "type": "show",
+    "show": {
+      "title": "Babar",
+      "year": 1989,
+      "ids": {
+        "trakt": 1226,
+        "slug": "babar",
+        "tvdb": 77278,
+        "imdb": "tt0156200",
+        "tmdb": 1232,
+        "tvrage": null
+      }
+    }
+  },
+  {
+    "rank": 18,
+    "id": 1277199978,
+    "listed_at": "2025-07-12T10:18:54.000Z",
+    "notes": null,
+    "type": "show",
+    "show": {
+      "title": "Little Bear",
+      "year": 1995,
+      "ids": {
+        "trakt": 9785,
+        "slug": "little-bear",
+        "tvdb": 76717,
+        "imdb": "tt0245637",
+        "tmdb": 9834,
+        "tvrage": null
+      }
+    }
+  },
+  {
+    "rank": 19,
+    "id": 1277200091,
+    "listed_at": "2025-07-12T10:19:06.000Z",
+    "notes": null,
+    "type": "show",
+    "show": {
+      "title": "Fireman Sam",
+      "year": 1987,
+      "ids": {
+        "trakt": 5173,
+        "slug": "fireman-sam",
+        "tvdb": 73517,
+        "imdb": "tt0329829",
+        "tmdb": 5200,
+        "tvrage": null
+      }
+    }
+  },
+  {
+    "rank": 20,
+    "id": 1277201079,
+    "listed_at": "2025-07-12T10:22:08.000Z",
+    "notes": null,
+    "type": "show",
+    "show": {
+      "title": "Thomas & Friends: All Engines Go!",
+      "year": 2021,
+      "ids": {
+        "trakt": 191004,
+        "slug": "thomas-friends-all-engines-go",
+        "tvdb": 412175,
+        "imdb": "tt14556544",
+        "tmdb": 138523,
+        "tvrage": null
+      }
+    }
+  },
+  {
+    "rank": 21,
+    "id": 1277201146,
+    "listed_at": "2025-07-12T10:22:23.000Z",
+    "notes": null,
+    "type": "show",
+    "show": {
+      "title": "Trash Truck",
+      "year": 2020,
+      "ids": {
+        "trakt": 168677,
+        "slug": "trash-truck",
+        "tvdb": 390709,
+        "imdb": "tt9288860",
+        "tmdb": 112442,
+        "tvrage": null
+      }
+    }
+  },
+  {
+    "rank": 22,
+    "id": 1277201171,
+    "listed_at": "2025-07-12T10:22:37.000Z",
+    "notes": null,
+    "type": "show",
+    "show": {
+      "title": "Puffin Rock",
+      "year": 2015,
+      "ids": {
+        "trakt": 101560,
+        "slug": "puffin-rock",
+        "tvdb": 299994,
+        "imdb": "tt3590338",
+        "tmdb": 69926,
+        "tvrage": null
+      }
+    }
+  },
+  {
+    "rank": 23,
+    "id": 1277201184,
+    "listed_at": "2025-07-12T10:22:55.000Z",
+    "notes": null,
+    "type": "show",
+    "show": {
+      "title": "Play School",
+      "year": 1998,
+      "ids": {
+        "trakt": 13164,
+        "slug": "play-school",
+        "tvdb": 83129,
+        "imdb": "tt0143055",
+        "tmdb": 13220,
+        "tvrage": null
+      }
+    }
+  }
+]
